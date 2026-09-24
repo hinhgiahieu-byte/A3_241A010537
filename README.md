@@ -170,19 +170,6 @@ Khi chạy trên thiết bị có chiều rộng tối thiểu 600dp, giao diệ
 
 Qua Lab A3, em đã thực hành xây dựng giao diện Android bằng XML Layout, sử dụng LinearLayout, FrameLayout và ConstraintLayout. Đồng thời biết cách tách tài nguyên, sử dụng layout-land và kiểm tra giao diện trên thiết bị.
 
-**📷 Nếu cần:** chèn ảnh GitHub ở cuối báo cáo.
 
 ---
 
-# DANH SÁCH ẢNH CẦN CHỤP
-
-| Hình   | Checkpoint       | Ảnh cần chụp             |
-| ------ | ---------------- | ------------------------ |
-| Hình 1 | **Checkpoint 1** | Giao diện Portrait       |
-| Hình 2 | **Checkpoint 1** | Snackbar khi Đăng nhập   |
-| Hình 3 | —                | FrameLayout/avatar       |
-| Hình 4 | **Checkpoint 2** | ConstraintLayout         |
-| Hình 5 | **Checkpoint 3** | Giao diện Landscape      |
-| Hình 6 | **Checkpoint 3** | Logcat `res/layout-land` |
-| Hình 7 | **Checkpoint 4** | Bài nâng cao 1           |
-| Hình 8 | **Checkpoint 4** | Bài nâng cao 2           |
