@@ -164,7 +164,7 @@ Khi chạy trên thiết bị có chiều rộng tối thiểu 600dp, giao diệ
 
 * Tên repository: **A3_241A010537**
 * Số commit: **ít nhất 3 commit**
-* Link GitHub: ....................................................
+* Link GitHub: https://github.com/hinhgiahieu-byte/A3_241A010537.git
 
 ### Kết luận
 
